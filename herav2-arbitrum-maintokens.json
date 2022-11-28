@@ -300,7 +300,7 @@
             "decimals": 18,
             "name": "Vesta Stable",
             "symbol": "VST",
-            "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0x64343594ab9b56e99087bfa6f2335db24c2d1f17.png"
+            "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0x64343594ab9b56e99087bfa6f2335db24c2d1f17.svg"
         },
         {
             "chainId": 42161,
@@ -308,7 +308,7 @@
             "decimals": 18,
             "name": "dForce USD",
             "symbol": "USX",
-            "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0x641441c631e2f909700d2f41fd87f0aa6a6b4edb.png"
+            "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0x641441c631e2f909700d2f41fd87f0aa6a6b4edb.svg"
         },
         {
             "chainId": 42161,
