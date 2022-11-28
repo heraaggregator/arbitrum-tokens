@@ -140,7 +140,7 @@
             "decimals": 18,
             "name": "Plutus DPX",
             "symbol": "plsDPX",
-            "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0xf236ea74b515ef96a9898f5a4ed4aa591f253ce1.png"
+            "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0xf236ea74b515ef96a9898f5a4ed4aa591f253ce1.svg"
         },
         {
             "chainId": 42161,
@@ -148,7 +148,7 @@
             "decimals": 18,
             "name": "Plutus JONES",
             "symbol": "plsJONES",
-            "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0xe7f6c3c1f0018e4c08acc52965e5cbff99e34a44.png"
+            "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0xe7f6c3c1f0018e4c08acc52965e5cbff99e34a44.svg"
         },
         {
             "chainId": 42161,
