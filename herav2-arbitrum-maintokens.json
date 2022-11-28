@@ -20,7 +20,7 @@
             "decimals": 18,
             "name": "Ether",
             "symbol": "ETH",
-            "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee.webp"
+            "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee.png"
         },
         {
             "chainId": 42161,
@@ -28,7 +28,7 @@
             "decimals": 18,
             "name": "Wrapped Ether",
             "symbol": "WETH",
-            "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0x82af49447d8a07e3bd95bd0d56f35241523fbab1.webp"
+            "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0x82af49447d8a07e3bd95bd0d56f35241523fbab1.png"
         },
         {
             "chainId": 42161,
