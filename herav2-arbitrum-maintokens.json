@@ -32,11 +32,11 @@
         },
         {
             "chainId": 42161,
-            "address": "0xFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF",
+            "address": "0xFF970A61A04b1cA14834A43f5dE4533eBDDB5CC8",
             "decimals": 6,
             "name": "USD Coin",
             "symbol": "USDC",
-            "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0xFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF.png"
+            "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0xff970a61a04b1ca14834a43f5de4533ebddb5cc8.png"
         },
         {
             "chainId": 42161,
