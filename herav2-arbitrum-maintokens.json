@@ -268,7 +268,7 @@
             "decimals": 18,
             "name": "agEUR",
             "symbol": "agEUR",
-            "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0xfa5ed56a203466cbbc2430a43c66b9d8723528e7.png"
+            "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0xfa5ed56a203466cbbc2430a43c66b9d8723528e7.svg"
         },
         {
             "chainId": 42161,
