@@ -4,14 +4,15 @@
     "keywords": [
         "arbitrum",
         "hera main tokens",
-        "hera",
-        "aggregator",
+        "hera aggregator",
+        "dex aggregator",
+        "arbitrum one",
         "ethereum"
     ],
     "version": {
         "major": 2,
         "minor": 1,
-        "patch": 1
+        "patch": 4
     },
     "tokens": [
         {
